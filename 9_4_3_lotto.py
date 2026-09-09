@@ -1,4 +1,5 @@
 # 로또v1
+# 로또v2
 
 
 import streamlit as st
